@@ -1,0 +1,15 @@
+F:\cgit\Tamrin\tamrin4\bin\Debug\net6.0\tamrin4.exe
+F:\cgit\Tamrin\tamrin4\bin\Debug\net6.0\tamrin4.deps.json
+F:\cgit\Tamrin\tamrin4\bin\Debug\net6.0\tamrin4.runtimeconfig.json
+F:\cgit\Tamrin\tamrin4\bin\Debug\net6.0\tamrin4.dll
+F:\cgit\Tamrin\tamrin4\bin\Debug\net6.0\tamrin4.pdb
+F:\cgit\Tamrin\tamrin4\obj\Debug\net6.0\tamrin4.csproj.AssemblyReference.cache
+F:\cgit\Tamrin\tamrin4\obj\Debug\net6.0\tamrin4.GeneratedMSBuildEditorConfig.editorconfig
+F:\cgit\Tamrin\tamrin4\obj\Debug\net6.0\tamrin4.AssemblyInfoInputs.cache
+F:\cgit\Tamrin\tamrin4\obj\Debug\net6.0\tamrin4.AssemblyInfo.cs
+F:\cgit\Tamrin\tamrin4\obj\Debug\net6.0\tamrin4.csproj.CoreCompileInputs.cache
+F:\cgit\Tamrin\tamrin4\obj\Debug\net6.0\tamrin4.dll
+F:\cgit\Tamrin\tamrin4\obj\Debug\net6.0\refint\tamrin4.dll
+F:\cgit\Tamrin\tamrin4\obj\Debug\net6.0\tamrin4.pdb
+F:\cgit\Tamrin\tamrin4\obj\Debug\net6.0\tamrin4.genruntimeconfig.cache
+F:\cgit\Tamrin\tamrin4\obj\Debug\net6.0\ref\tamrin4.dll
