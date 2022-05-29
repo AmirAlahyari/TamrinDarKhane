@@ -23,7 +23,7 @@ namespace ConsoleApp2
                 string matchString = "";
                 for (int j = 0; j < str1.Length; j++)
                 {
-                    matchString = matchString + str2[j];
+                    matchString = matchString + str2[i+j];
                 }
 
                 if (matchString == str1)
