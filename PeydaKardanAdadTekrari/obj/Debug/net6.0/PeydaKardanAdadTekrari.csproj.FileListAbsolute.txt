@@ -1,0 +1,15 @@
+F:\cgit\Tamrin\PeydaKardanAdadTekrari\bin\Debug\net6.0\PeydaKardanAdadTekrari.exe
+F:\cgit\Tamrin\PeydaKardanAdadTekrari\bin\Debug\net6.0\PeydaKardanAdadTekrari.deps.json
+F:\cgit\Tamrin\PeydaKardanAdadTekrari\bin\Debug\net6.0\PeydaKardanAdadTekrari.runtimeconfig.json
+F:\cgit\Tamrin\PeydaKardanAdadTekrari\bin\Debug\net6.0\PeydaKardanAdadTekrari.dll
+F:\cgit\Tamrin\PeydaKardanAdadTekrari\bin\Debug\net6.0\PeydaKardanAdadTekrari.pdb
+F:\cgit\Tamrin\PeydaKardanAdadTekrari\obj\Debug\net6.0\PeydaKardanAdadTekrari.csproj.AssemblyReference.cache
+F:\cgit\Tamrin\PeydaKardanAdadTekrari\obj\Debug\net6.0\PeydaKardanAdadTekrari.GeneratedMSBuildEditorConfig.editorconfig
+F:\cgit\Tamrin\PeydaKardanAdadTekrari\obj\Debug\net6.0\PeydaKardanAdadTekrari.AssemblyInfoInputs.cache
+F:\cgit\Tamrin\PeydaKardanAdadTekrari\obj\Debug\net6.0\PeydaKardanAdadTekrari.AssemblyInfo.cs
+F:\cgit\Tamrin\PeydaKardanAdadTekrari\obj\Debug\net6.0\PeydaKardanAdadTekrari.csproj.CoreCompileInputs.cache
+F:\cgit\Tamrin\PeydaKardanAdadTekrari\obj\Debug\net6.0\PeydaKardanAdadTekrari.dll
+F:\cgit\Tamrin\PeydaKardanAdadTekrari\obj\Debug\net6.0\refint\PeydaKardanAdadTekrari.dll
+F:\cgit\Tamrin\PeydaKardanAdadTekrari\obj\Debug\net6.0\PeydaKardanAdadTekrari.pdb
+F:\cgit\Tamrin\PeydaKardanAdadTekrari\obj\Debug\net6.0\PeydaKardanAdadTekrari.genruntimeconfig.cache
+F:\cgit\Tamrin\PeydaKardanAdadTekrari\obj\Debug\net6.0\ref\PeydaKardanAdadTekrari.dll
