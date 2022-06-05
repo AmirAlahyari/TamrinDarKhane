@@ -1,0 +1,15 @@
+F:\cgit\Tamrin\HangedMan\bin\Debug\net6.0\HangedMan.exe
+F:\cgit\Tamrin\HangedMan\bin\Debug\net6.0\HangedMan.deps.json
+F:\cgit\Tamrin\HangedMan\bin\Debug\net6.0\HangedMan.runtimeconfig.json
+F:\cgit\Tamrin\HangedMan\bin\Debug\net6.0\HangedMan.dll
+F:\cgit\Tamrin\HangedMan\bin\Debug\net6.0\HangedMan.pdb
+F:\cgit\Tamrin\HangedMan\obj\Debug\net6.0\HangedMan.csproj.AssemblyReference.cache
+F:\cgit\Tamrin\HangedMan\obj\Debug\net6.0\HangedMan.GeneratedMSBuildEditorConfig.editorconfig
+F:\cgit\Tamrin\HangedMan\obj\Debug\net6.0\HangedMan.AssemblyInfoInputs.cache
+F:\cgit\Tamrin\HangedMan\obj\Debug\net6.0\HangedMan.AssemblyInfo.cs
+F:\cgit\Tamrin\HangedMan\obj\Debug\net6.0\HangedMan.csproj.CoreCompileInputs.cache
+F:\cgit\Tamrin\HangedMan\obj\Debug\net6.0\HangedMan.dll
+F:\cgit\Tamrin\HangedMan\obj\Debug\net6.0\refint\HangedMan.dll
+F:\cgit\Tamrin\HangedMan\obj\Debug\net6.0\HangedMan.pdb
+F:\cgit\Tamrin\HangedMan\obj\Debug\net6.0\HangedMan.genruntimeconfig.cache
+F:\cgit\Tamrin\HangedMan\obj\Debug\net6.0\ref\HangedMan.dll

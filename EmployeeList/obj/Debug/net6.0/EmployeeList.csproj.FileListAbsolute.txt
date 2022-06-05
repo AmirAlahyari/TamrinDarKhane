@@ -1,0 +1,15 @@
+F:\cgit\Tamrin\EmployeeList\bin\Debug\net6.0\EmployeeList.exe
+F:\cgit\Tamrin\EmployeeList\bin\Debug\net6.0\EmployeeList.deps.json
+F:\cgit\Tamrin\EmployeeList\bin\Debug\net6.0\EmployeeList.runtimeconfig.json
+F:\cgit\Tamrin\EmployeeList\bin\Debug\net6.0\EmployeeList.dll
+F:\cgit\Tamrin\EmployeeList\bin\Debug\net6.0\EmployeeList.pdb
+F:\cgit\Tamrin\EmployeeList\obj\Debug\net6.0\EmployeeList.csproj.AssemblyReference.cache
+F:\cgit\Tamrin\EmployeeList\obj\Debug\net6.0\EmployeeList.GeneratedMSBuildEditorConfig.editorconfig
+F:\cgit\Tamrin\EmployeeList\obj\Debug\net6.0\EmployeeList.AssemblyInfoInputs.cache
+F:\cgit\Tamrin\EmployeeList\obj\Debug\net6.0\EmployeeList.AssemblyInfo.cs
+F:\cgit\Tamrin\EmployeeList\obj\Debug\net6.0\EmployeeList.csproj.CoreCompileInputs.cache
+F:\cgit\Tamrin\EmployeeList\obj\Debug\net6.0\EmployeeList.dll
+F:\cgit\Tamrin\EmployeeList\obj\Debug\net6.0\refint\EmployeeList.dll
+F:\cgit\Tamrin\EmployeeList\obj\Debug\net6.0\EmployeeList.pdb
+F:\cgit\Tamrin\EmployeeList\obj\Debug\net6.0\EmployeeList.genruntimeconfig.cache
+F:\cgit\Tamrin\EmployeeList\obj\Debug\net6.0\ref\EmployeeList.dll
