@@ -1,0 +1,15 @@
+F:\cgit\Tamrin\revers\bin\Debug\net6.0\revers.exe
+F:\cgit\Tamrin\revers\bin\Debug\net6.0\revers.deps.json
+F:\cgit\Tamrin\revers\bin\Debug\net6.0\revers.runtimeconfig.json
+F:\cgit\Tamrin\revers\bin\Debug\net6.0\revers.dll
+F:\cgit\Tamrin\revers\bin\Debug\net6.0\revers.pdb
+F:\cgit\Tamrin\revers\obj\Debug\net6.0\revers.csproj.AssemblyReference.cache
+F:\cgit\Tamrin\revers\obj\Debug\net6.0\revers.GeneratedMSBuildEditorConfig.editorconfig
+F:\cgit\Tamrin\revers\obj\Debug\net6.0\revers.AssemblyInfoInputs.cache
+F:\cgit\Tamrin\revers\obj\Debug\net6.0\revers.AssemblyInfo.cs
+F:\cgit\Tamrin\revers\obj\Debug\net6.0\revers.csproj.CoreCompileInputs.cache
+F:\cgit\Tamrin\revers\obj\Debug\net6.0\revers.dll
+F:\cgit\Tamrin\revers\obj\Debug\net6.0\refint\revers.dll
+F:\cgit\Tamrin\revers\obj\Debug\net6.0\revers.pdb
+F:\cgit\Tamrin\revers\obj\Debug\net6.0\revers.genruntimeconfig.cache
+F:\cgit\Tamrin\revers\obj\Debug\net6.0\ref\revers.dll
