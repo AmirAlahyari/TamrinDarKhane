@@ -7,6 +7,7 @@ namespace LambdaOddNumber
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("enter numbers");
             int numbers = Convert.ToInt32(Console.ReadLine());
             int i = 0;
             List<int> lstnumbers = new List<int>();
