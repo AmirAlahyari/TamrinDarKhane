@@ -1,0 +1,15 @@
+F:\cgit\Tamrin\LambdaOddNumber\bin\Debug\net7.0\LambdaOddNumber.exe
+F:\cgit\Tamrin\LambdaOddNumber\bin\Debug\net7.0\LambdaOddNumber.deps.json
+F:\cgit\Tamrin\LambdaOddNumber\bin\Debug\net7.0\LambdaOddNumber.runtimeconfig.json
+F:\cgit\Tamrin\LambdaOddNumber\bin\Debug\net7.0\LambdaOddNumber.dll
+F:\cgit\Tamrin\LambdaOddNumber\bin\Debug\net7.0\LambdaOddNumber.pdb
+F:\cgit\Tamrin\LambdaOddNumber\obj\Debug\net7.0\LambdaOddNumber.csproj.AssemblyReference.cache
+F:\cgit\Tamrin\LambdaOddNumber\obj\Debug\net7.0\LambdaOddNumber.GeneratedMSBuildEditorConfig.editorconfig
+F:\cgit\Tamrin\LambdaOddNumber\obj\Debug\net7.0\LambdaOddNumber.AssemblyInfoInputs.cache
+F:\cgit\Tamrin\LambdaOddNumber\obj\Debug\net7.0\LambdaOddNumber.AssemblyInfo.cs
+F:\cgit\Tamrin\LambdaOddNumber\obj\Debug\net7.0\LambdaOddNumber.csproj.CoreCompileInputs.cache
+F:\cgit\Tamrin\LambdaOddNumber\obj\Debug\net7.0\LambdaOddNumber.dll
+F:\cgit\Tamrin\LambdaOddNumber\obj\Debug\net7.0\refint\LambdaOddNumber.dll
+F:\cgit\Tamrin\LambdaOddNumber\obj\Debug\net7.0\LambdaOddNumber.pdb
+F:\cgit\Tamrin\LambdaOddNumber\obj\Debug\net7.0\LambdaOddNumber.genruntimeconfig.cache
+F:\cgit\Tamrin\LambdaOddNumber\obj\Debug\net7.0\ref\LambdaOddNumber.dll
