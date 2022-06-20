@@ -1,0 +1,15 @@
+F:\cgit\Tamrin\LambdaOdd\bin\Debug\net7.0\LambdaOdd.exe
+F:\cgit\Tamrin\LambdaOdd\bin\Debug\net7.0\LambdaOdd.deps.json
+F:\cgit\Tamrin\LambdaOdd\bin\Debug\net7.0\LambdaOdd.runtimeconfig.json
+F:\cgit\Tamrin\LambdaOdd\bin\Debug\net7.0\LambdaOdd.dll
+F:\cgit\Tamrin\LambdaOdd\bin\Debug\net7.0\LambdaOdd.pdb
+F:\cgit\Tamrin\LambdaOdd\obj\Debug\net7.0\LambdaOdd.csproj.AssemblyReference.cache
+F:\cgit\Tamrin\LambdaOdd\obj\Debug\net7.0\LambdaOdd.GeneratedMSBuildEditorConfig.editorconfig
+F:\cgit\Tamrin\LambdaOdd\obj\Debug\net7.0\LambdaOdd.AssemblyInfoInputs.cache
+F:\cgit\Tamrin\LambdaOdd\obj\Debug\net7.0\LambdaOdd.AssemblyInfo.cs
+F:\cgit\Tamrin\LambdaOdd\obj\Debug\net7.0\LambdaOdd.csproj.CoreCompileInputs.cache
+F:\cgit\Tamrin\LambdaOdd\obj\Debug\net7.0\LambdaOdd.dll
+F:\cgit\Tamrin\LambdaOdd\obj\Debug\net7.0\refint\LambdaOdd.dll
+F:\cgit\Tamrin\LambdaOdd\obj\Debug\net7.0\LambdaOdd.pdb
+F:\cgit\Tamrin\LambdaOdd\obj\Debug\net7.0\LambdaOdd.genruntimeconfig.cache
+F:\cgit\Tamrin\LambdaOdd\obj\Debug\net7.0\ref\LambdaOdd.dll
