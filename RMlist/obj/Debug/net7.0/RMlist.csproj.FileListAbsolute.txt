@@ -1,0 +1,15 @@
+F:\cgit\Tamrin\RMlist\bin\Debug\net7.0\RMlist.exe
+F:\cgit\Tamrin\RMlist\bin\Debug\net7.0\RMlist.deps.json
+F:\cgit\Tamrin\RMlist\bin\Debug\net7.0\RMlist.runtimeconfig.json
+F:\cgit\Tamrin\RMlist\bin\Debug\net7.0\RMlist.dll
+F:\cgit\Tamrin\RMlist\bin\Debug\net7.0\RMlist.pdb
+F:\cgit\Tamrin\RMlist\obj\Debug\net7.0\RMlist.csproj.AssemblyReference.cache
+F:\cgit\Tamrin\RMlist\obj\Debug\net7.0\RMlist.GeneratedMSBuildEditorConfig.editorconfig
+F:\cgit\Tamrin\RMlist\obj\Debug\net7.0\RMlist.AssemblyInfoInputs.cache
+F:\cgit\Tamrin\RMlist\obj\Debug\net7.0\RMlist.AssemblyInfo.cs
+F:\cgit\Tamrin\RMlist\obj\Debug\net7.0\RMlist.csproj.CoreCompileInputs.cache
+F:\cgit\Tamrin\RMlist\obj\Debug\net7.0\RMlist.dll
+F:\cgit\Tamrin\RMlist\obj\Debug\net7.0\refint\RMlist.dll
+F:\cgit\Tamrin\RMlist\obj\Debug\net7.0\RMlist.pdb
+F:\cgit\Tamrin\RMlist\obj\Debug\net7.0\RMlist.genruntimeconfig.cache
+F:\cgit\Tamrin\RMlist\obj\Debug\net7.0\ref\RMlist.dll
